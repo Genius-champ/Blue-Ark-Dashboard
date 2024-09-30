@@ -7,4 +7,4 @@ This project shows a dashboard created using Tableau for Blue Ark project. It wa
 
 
 Link to the dashboard on Tableau Public
-https://public.tableau.com/app/profile/ikeoluwa.akanmu/viz/BLUEARKREALTYHOUSEPRICEDASHBOARD/Dashboard1?publish=yes
+https://public.tableau.com/views/BLUEARKREALTYHOUSEPRICEDASHBOARD/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
